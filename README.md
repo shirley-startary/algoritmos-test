@@ -22,3 +22,5 @@ Para poder probar probar estos algoritmos y correr los test debemos seguir los s
       ```sh
       npm test
       ```
+
+Nota:   Este es el link de la descripción de los ejercicios [Descripción de ejercicios](https://feline-raclette-177.notion.site/Problemas-y-algoritmos_-2d3757e5469f4f7db92806c77d036d05)

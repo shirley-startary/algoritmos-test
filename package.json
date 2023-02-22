@@ -1,7 +1,7 @@
 {
   "name": "programatio",
   "version": "1.0.0",
-  "description": "",
+  "description": "se utiliza javascript, babel, jest",
   "main": "index.js",
   "scripts": {
     "test": "jest"
